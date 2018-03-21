@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
           #1.
           s.name               = "ComputeFramework"
           #2.
-          s.version            = "1.0.0"
+          s.version            = "1.0.1"
           #3.  
           s.summary         = "Compute framework is a sample framework"
           #4.
@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
           #7.
           s.platform            = :ios, "9.0"
           #8.
-          s.source              = { :git => "https://github.com/pradeeprajkumar/ComputeFramework.git", :tag => "1.0.0" }
+          s.source              = { :git => "https://github.com/pradeeprajkumar/ComputeFramework.git", :tag => "1.0.1" }
           #9.
           s.ios.vendored_frameworks = 'ComputeFramework.framework'          
     end
